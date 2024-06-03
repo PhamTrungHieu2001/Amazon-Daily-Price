@@ -1,1 +1,1 @@
-# Amazon-Product-s-Daily-Price
+# Amazon-Daily-Price
