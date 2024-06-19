@@ -1,7 +1,7 @@
 # Amazon-Price-Tracking
 
 ## Overview
-This project involves scraping data from Amazon to collect information about a product's name and price. The goal is to extract, process, and analyze this data to gain insights into pricing trends.
+This project involves scraping data from Amazon to collect information about a product's name and price. The goal is to extract, process, and analyze this data to gain insights into the pricing trend.
 
 ## Project structure
 * PriceTracking.xlsx: the price of the product every hour
